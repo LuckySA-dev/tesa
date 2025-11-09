@@ -1,0 +1,49 @@
+Backup List - 2025-11-09 11:01:20
+======================================================================
+
+
+Old CSVs & Data Files:
+--------------------------------------------------
+  compare_results.py
+
+Backup Files:
+--------------------------------------------------
+
+Experimental & Test Scripts:
+--------------------------------------------------
+  test_external_dataset.py
+  test_api_integration.py
+  optimize_performance.py
+  check_problem1_csv.py
+  check_theta.py
+  check_tracks.py
+  compare_thresholds.py
+  compare_trackers.py
+  fix_obb_normalization.py
+
+Alternative Solutions (Not Used):
+--------------------------------------------------
+  centroid_tracker.py
+  problem1_detection.py
+  problem1_video_tracking.py
+  problem1_optimized.py
+  problem2_localization.py
+  problem2_train.py
+  problem3_tracking.py
+
+Analysis & Optimization Scripts:
+--------------------------------------------------
+  analyze_tracking.py
+  auto_tune_confidence.py
+  final_threshold_analysis.py
+  validate_csv.py
+  validate_problem2.py
+
+Miscellaneous:
+--------------------------------------------------
+  test_kaggle_image.png
+  make_sample_video.py
+
+Old Logs:
+--------------------------------------------------
+  logs/
